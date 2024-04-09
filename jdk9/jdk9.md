@@ -8,7 +8,7 @@ JDK 9于2017年9月21日正式上市。GPL下的生产就绪二进制文件可�
 
 
 ## Features
-+ 102: Process API Updates
++ 102: Process API Updates (ProcessHandle ProcessHandle提供了对本地进程的控制，可以监控其存活，查找其子进程，查看其信息，甚至销毁它。非常适合耗时较长的进程调用)
 + 110: HTTP 2 Client
 + 143: Improve Contended Locking
 + 158: Unified JVM Logging
@@ -63,7 +63,7 @@ JDK 9于2017年9月21日正式上市。GPL下的生产就绪二进制文件可�
 + 258: HarfBuzz Font-Layout Engine
 + 259: Stack-Walking API
 + 260: Encapsulate Most Internal APIs
-+ 261: Module System
++ 261: **Module System**
 + 262: TIFF Image I/O
 + 263: HiDPI Graphics on Windows and Linux
 + 264: Platform Logging API and Service
