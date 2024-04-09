@@ -1,4 +1,4 @@
-#JDK 9
+# JDK 9
 
 本项目的目标是在Java社区过程中生成JSR379定义的Java SE 9平台的开源参考实现。
 
@@ -7,7 +7,7 @@ JDK 9于2017年9月21日正式上市。GPL下的生产就绪二进制文件可�
 本次发布的特点和时间表是通过JEP流程提出和跟踪的，并经JEP 2.0提案修订。
 
 
-##Features
+## Features
 + 102: Process API Updates
 + 110: HTTP 2 Client
 + 143: Improve Contended Locking
@@ -100,7 +100,7 @@ JDK 9于2017年9月21日正式上市。GPL下的生产就绪二进制文件可�
 + 298: Remove Demos and Samples
 + 299: Reorganize Documentation
 
-##Schedule
+## Schedule
 + 2016/05/26		Feature Complete
 + 2016/12/22		Feature Extension Complete
 + 2017/01/05		Rampdown Start
@@ -111,7 +111,8 @@ JDK 9于2017年9月21日正式上市。GPL下的生产就绪二进制文件可�
 + 2017/07/06		Final Release Candidate
 + 2017/09/21		General Availability
 
-##Phases
+## Phases
+
 We stabilized the release in an increasingly-rigorous sequence of phases, listed here for the record:
 
 + Rampdown Phase One
@@ -124,7 +125,7 @@ During those phases we used three processes to coordinate our work:
 + Bug-deferral process (RDP 1 and later)
 + Fix-request process (RDP 2 and later)
 
-##Milestone definitions
+## Milestone definitions
 
 The milestone definitions for JDK 9 were the same as those for JDK 8, with the addition of:
 
