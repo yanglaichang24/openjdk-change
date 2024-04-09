@@ -33,4 +33,4 @@ The features and schedule of this release were proposed and tracked via the JEP 
 + 2018/07/26		Rampdown Phase Two
 + 2018/08/16		Initial Release Candidate
 + 2018/08/30		Final Release Candidate
-+ 2018/09/25		General Availability
++ <font color=red size=12>2018/09/25		General Availability </font>
