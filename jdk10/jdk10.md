@@ -1,4 +1,4 @@
-#JDK10
+# JDK10
 
 JDK10是JSR383在Java社区过程中定义的Java SE 10平台的开源参考实现。
 
@@ -21,7 +21,7 @@ JDK 10于2018年3月20日正式上市。GPL下的生产就绪二进制文件可�
 + 319: Root Certificates
 + 322: Time-Based Release Versioning
 
-###Schedule
+### Schedule
 + 2017/12/14		Rampdown Phase One
 + 2018/01/11		All Tests Run
 + 2018/01/18		Rampdown Phase Two
